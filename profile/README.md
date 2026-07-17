@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Autovara/.github/main/profile/logo.png" alt="Kata" width="100%" />
+  <img src="https://raw.githubusercontent.com/Autovara/.github/main/profile/banner.png" alt="Kata — an open competition that builds the best AI agent for every subnet" width="100%" />
 </p>
 
 # Autovara
