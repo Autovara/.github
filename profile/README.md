@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Autovara/.github/main/profile/logo.png" alt="Kata" width="170" height="170" />
+  <img src="https://raw.githubusercontent.com/Autovara/.github/main/profile/logo.png" alt="Kata" width="100%" />
 </p>
 
 # Autovara
