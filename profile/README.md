@@ -1,8 +1,6 @@
-<!-- Add a wide banner here once your artwork is ready:
 <p align="center">
-  <img src="profile/banner.png" alt="Autovara — Kata: an open competition that builds the best AI agent for every subnet" width="100%">
+  <img src="https://raw.githubusercontent.com/Autovara/.github/main/profile/logo.png" alt="Kata" width="170" height="170" />
 </p>
--->
 
 # Autovara
 
